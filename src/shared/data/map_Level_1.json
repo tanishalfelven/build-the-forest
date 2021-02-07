@@ -1,0 +1,754 @@
+[
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ]
+]
