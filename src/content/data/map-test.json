@@ -1,0 +1,26 @@
+[
+    [
+        {
+            "type": "field"
+        },
+        {
+            "type": "conifer"
+        }
+    ],
+    [
+        {
+            "type": "covered"
+        },
+        {
+            "type": "birch"
+        }
+    ],
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "base"
+        }
+    ]
+]

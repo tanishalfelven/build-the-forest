@@ -3,5 +3,5 @@
 {/each}
 
 <script>
-    import { tree } from "src/shared/stores/statechart.js";
+    import { tree } from "src/content/stores/statechart.js";
 </script>

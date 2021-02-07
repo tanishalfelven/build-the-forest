@@ -2,7 +2,7 @@ import { writable } from "svelte/store";
 import { interpret } from "xstate";
 import ComponentTree from "xstate-component-tree";
 
-import BuildTheForestStatechart from "src/statechart/buildtheforest.machine.js";
+import BuildTheForestStatechart from "src/content/statechart/buildtheforest.machine.js";
 
 const service = interpret(BuildTheForestStatechart);
 
