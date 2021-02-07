@@ -4,8 +4,19 @@ const dev = true;
 
 const { preprocess, processor } = require("@modular-css/svelte")({
     namer: !dev && require("@modular-css/shortnames")(),
+
     rewrite: false,
+
     map: dev ? { inline: false } : false,
+
+    before : [
+        require("postcss-nested"),
+    ],
+
+    after : [
+        require("postcss-import")(),
+        require("postcss-calc")(),
+    ],
 });
 
 export default {
@@ -22,6 +33,8 @@ export default {
         require("@rollup/plugin-node-resolve")(),
 
         require("rollup-plugin-commonjs")(),
+
+        require("@rollup/plugin-json")(),
 
         require("@rollup/plugin-alias")({
             entries: {

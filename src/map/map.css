@@ -1,0 +1,51 @@
+@value size: 5rem;
+
+.map {
+    --width: 3;
+    --height: 3;
+
+    display: grid;
+
+    width: calc(var(--width) * size);
+    height: calc(var(height) * size);
+
+    grid-template-columns: repeat(var(--width), size);
+    grid-template-rows: repeat(var(--height), size);
+}
+
+.tile {
+    width: size;
+    height: size;
+
+    background-color: #2d742d;
+
+    background-size: cover;
+
+    &[data-type="covered"] {
+        background-image: url(/src/shared/img/sprites/covered.png);
+    }
+
+    &[data-type="empty"] {
+        background-image: url(/src/shared/img/sprites/empty.png);
+    }
+
+    &[data-type="base"] {
+        background-image: url(/src/shared/img/sprites/base.png);
+    }
+
+    &[data-type="conifer"] {
+        background-image: url(/src/shared/img/sprites/conifer.png);
+    }
+
+    &[data-type="birch"] {
+        background-image: url(/src/shared/img/sprites/birch.png);
+    }
+
+    &[data-type="field"] {
+        background-image: url(/src/shared/img/sprites/field.png);
+    }
+
+    &[data-type="covered"] {
+        background-image: url(/src/shared/img/sprites/covered.png);
+    }
+}

@@ -16,6 +16,13 @@ html, body, .game {
     padding: 0;
 }
 
+.game {
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+
 button {
     cursor: pointer;
 }
