@@ -1,0 +1,87 @@
+[
+    [
+        {
+            "type": "empty"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "covered"
+        },
+        {
+            "type": "covered"
+        },
+        {
+            "type": "covered"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "base"
+        },
+        {
+            "type": "conifer"
+        },
+        {
+            "type": "covered"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "covered"
+        },
+        {
+            "type": "covered"
+        },
+        {
+            "type": "covered"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ],
+    [
+        {
+            "type": "birch"
+        },
+        {
+            "type": "covered"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "field"
+        },
+        {
+            "type": "spawn"
+        }
+    ]
+]
