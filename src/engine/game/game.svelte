@@ -5,5 +5,5 @@
 </div>
 
 <script>
-import Map from "src/map/map.svelte";
+import Map from "src/engine/map/map.svelte";
 </script>

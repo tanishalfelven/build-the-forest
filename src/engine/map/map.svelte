@@ -12,5 +12,5 @@
 
 <script>
 import { WIDTH, HEIGHT, tiles } from "./map.js";
-import Buildable from "src/shared/tiles/buildable/buildable.js";
+import Buildable from "src/content/tiles/buildable/buildable.js";
 </script>

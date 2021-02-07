@@ -1,13 +1,13 @@
-import MAPDATA from "src/shared/data/map.json";
+import MAPDATA from "src/content/data/map.json";
 
-import Tile, { EMPTY } from "src/shared/tiles/tile.js";
+import Tile, { EMPTY } from "src/content/tiles/tile.js";
 
-import Base, { BASE } from "src/shared/tiles/base.js";
+import Base, { BASE } from "src/content/tiles/base.js";
 
-import { Conifer, CONIFER, Birch, BIRCH } from "src/shared/tile-objects/tree.js";
+import { Conifer, CONIFER, Birch, BIRCH } from "src/content/tile-objects/tree.js";
 
-import Field, { FIELD } from "src/shared/tiles/buildable/field.js";
-import Covered, { COVERED } from "src/shared/tiles/buildable/covered.js";
+import Field, { FIELD } from "src/content/tiles/buildable/field.js";
+import Covered, { COVERED } from "src/content/tiles/buildable/covered.js";
 
 const HEIGHT = MAPDATA.length;
 const WIDTH = MAPDATA[0].length;

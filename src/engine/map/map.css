@@ -22,30 +22,30 @@
     background-size: cover;
 
     &[data-type="covered"] {
-        background-image: url(/src/shared/img/sprites/covered.png);
+        background-image: url(/src/content/img/sprites/covered.png);
     }
 
     &[data-type="empty"] {
-        background-image: url(/src/shared/img/sprites/empty.png);
+        background-image: url(/src/content/img/sprites/empty.png);
     }
 
     &[data-type="base"] {
-        background-image: url(/src/shared/img/sprites/base.png);
+        background-image: url(/src/content/img/sprites/base.png);
     }
 
     &[data-type="conifer"] {
-        background-image: url(/src/shared/img/sprites/conifer.png);
+        background-image: url(/src/content/img/sprites/conifer.png);
     }
 
     &[data-type="birch"] {
-        background-image: url(/src/shared/img/sprites/birch.png);
+        background-image: url(/src/content/img/sprites/birch.png);
     }
 
     &[data-type="field"] {
-        background-image: url(/src/shared/img/sprites/field.png);
+        background-image: url(/src/content/img/sprites/field.png);
     }
 
     &[data-type="covered"] {
-        background-image: url(/src/shared/img/sprites/covered.png);
+        background-image: url(/src/content/img/sprites/covered.png);
     }
 }
